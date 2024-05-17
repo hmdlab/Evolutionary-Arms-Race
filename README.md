@@ -43,4 +43,3 @@ Figures and Supplementary Figures described in the paper can be reproduced by ru
 **Landscape of Evolutionary arms race between Transposable elements and KRAB-ZFP family.**
 
 Masato Kosuge, Jumpei Ito, Michiaki Hamada. 2024
-(URL)
