@@ -31,8 +31,9 @@ The following processes are contained.
 The preprocessing takes approximately 30 minutes.
 
 ```
-python script/download_rawdata.py
-python script/preprocessing.py
+cd script
+python download_rawdata.py
+python preprocessing.py
 ```
 
 ## 3. Analysis
