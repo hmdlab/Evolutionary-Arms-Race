@@ -10,7 +10,7 @@ conda: 23.1.0
 ```
 You can reconstruct the virtual environment following these command lines:
 ```
-git clone URL
+git clone https://github.com/hmdlab/Evolutionary-Arms-Race.git
 cd Evolutionary-Arms-Race
 conda env create -f environment.yml
 conda activate arms_race
