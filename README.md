@@ -12,13 +12,14 @@ You can reconstruct the virtual environment following these command lines:
 ```
 git clone https://github.com/hmdlab/Evolutionary-Arms-Race.git
 cd Evolutionary-Arms-Race
-conda env create -f environment_all.yml
-conda activate arms_race
+conda env create -f dependencies_all.yml
+conda activate arms_race_all
 ```
 
 if you can't reconstruct the virtual environment, please try to use dependencies_minimum.yml
 ```
 conda env create -f dependencies_minimum.yml
+conda activate arms_race_minimum
 ```
 
 
