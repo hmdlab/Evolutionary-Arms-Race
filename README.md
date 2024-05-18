@@ -30,10 +30,10 @@ The following processes are contained.
 
 1. Download raw and processed data from Google Drive.
 2. Download genome, annotation, and epigenetic state in hESC from public databases.
-3. identification of KRAB-ZFP targets.
-4. identification of escape candidates.
-5. identification of binding sites of KRAB-ZFPs.
-6. obtaining the distance between LTR7_HERVH and TSS.
+3. Identification of KRAB-ZFP targets.
+4. Identification of escape candidates.
+5. Identification of binding sites of KRAB-ZFPs.
+6. Obtaining the distance between LTR7_HERVH and TSS.
 
 The preprocessing takes approximately 30 minutes.
 
