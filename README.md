@@ -22,7 +22,6 @@ conda env create -f dependencies_minimum.yml
 conda activate arms_race_minimum
 ```
 
-
 ## 2. Preprocessing
 Download raw data used for analysis and preprocess them.
 
@@ -44,7 +43,7 @@ python preprocessing.py
 ```
 
 ## 3. Analysis
-Figures and Supplementary Figures described in the paper can be reproduced by running the code in the Jupyter notebooks in the notebook/ directory.
+Figures and Supplementary Figures described in the paper can be reproduced by running the code in the Jupyter notebooks in the notebook/ directory.  
 
 ## 4. Citation
 **Landscape of Evolutionary arms race between Transposable elements and KRAB-ZFP family.**
