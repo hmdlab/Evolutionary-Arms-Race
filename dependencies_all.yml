@@ -1,4 +1,4 @@
-name: arms_race
+name: arm_race_all
 channels:
   - nvidia
   - pytorch

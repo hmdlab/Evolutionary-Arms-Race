@@ -233,7 +233,6 @@ for family in family_list:
     Dfam = Dfam_RM_fil[(Dfam_RM_fil['repeat subfamily name']==subfamily) & (LiftOver_df_fil['branch']==branch)].sort_values(by='branch length')
     Dfam = Dfam[Dfam['branch length'].isna()==False]
     outgroup = Dfam.iloc[-1]['repeat name']
-    print(family, subfamily, len(Dfam), outgroup)
 
     tree = tree_dict[family]
     tree.root_with_outgroup(outgroup)    
