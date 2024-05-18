@@ -271,4 +271,3 @@ dependencies:
   - zipp=3.17.0=pyhd8ed1ab_0
   - zlib=1.2.13=h8a1eda9_5
   - zstd=1.5.5=h829000d_0
-prefix: /Users/m.kosuge/opt/anaconda3/envs/arm_race
