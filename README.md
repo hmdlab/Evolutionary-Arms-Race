@@ -1,5 +1,5 @@
 # Evolutionary-Arms-Race
-The repository contains scripts and processed data for "Landscape of Evolutionary arms race between Transposable elements and KRAB-ZFP family".
+The repository contains scripts and processed data for **"Landscape of Evolutionary arms race between Transposable elements and KRAB-ZFP family"**.
 
 ## 1. Dependencies
 We have tested our script in the following environments.
@@ -12,9 +12,15 @@ You can reconstruct the virtual environment following these command lines:
 ```
 git clone https://github.com/hmdlab/Evolutionary-Arms-Race.git
 cd Evolutionary-Arms-Race
-conda env create -f environment.yml
+conda env create -f environment_all.yml
 conda activate arms_race
 ```
+
+if you can't reconstruct the virtual environment, please try to use dependencies_minimum.yml
+```
+conda env create -f dependencies_minimum.yml
+```
+
 
 ## 2. Preprocessing
 Download raw data used for analysis and preprocess them.
