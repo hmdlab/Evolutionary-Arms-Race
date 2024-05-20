@@ -1,10 +1,6 @@
 # Evolutionary-Arms-Race
 The repository contains scripts and processed data for **"Landscape of Evolutionary arms race between Transposable elements and KRAB-ZFP family"**.
 
-<p align="center">
-![image](https://github.com/hmdlab/Evolutionary-Arms-Race/assets/102283812/4c2d45f2-0ac4-4d80-a0e9-acd48f24cbb2)
-</p>
-
 ## 1. Dependencies
 We have tested our script in the following environments.
 ```
