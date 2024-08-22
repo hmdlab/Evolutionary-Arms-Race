@@ -46,6 +46,6 @@ python preprocessing.py
 Figures and Supplementary Figures described in the paper can be reproduced by running the code in the Jupyter notebooks in the notebook/ directory.  
 
 ## 4. Citation
-**Landscape of Evolutionary arms race between Transposable elements and KRAB-ZFP family.**  
+**Landscape of Evolutionary Arms Races between Transposable Elements and KRAB-ZFP Family.**  
 Masato Kosuge, Jumpei Ito, Michiaki Hamada. bioRxiv. (2024)
 https://doi.org/10.1101/2024.05.20.595046
