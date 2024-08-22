@@ -27,7 +27,7 @@ Download raw data used for analysis and preprocess them.
 
 The following processes are contained. 
 
-1. Download raw and processed data from Google Drive.
+1. Download raw and processed data from Box.
 2. Download genome, annotation, and epigenetic state in hESC from public databases.
 3. Identification of KRAB-ZFP targets.
 4. Identification of escape candidates.
