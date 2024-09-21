@@ -42,6 +42,14 @@ python download_rawdata.py
 python preprocessing.py
 ```
 
+if you want the additional data (Phylogenetic tree, distance matrix, MSA, consensus sequence), please run the following script.
+
+Since the additional data is 30GB, please be cautious when downloading it.
+
+```
+python download_additional_data.py
+```
+
 ## 3. Analysis
 Figures and Supplementary Figures described in the paper can be reproduced by running the code in the Jupyter notebooks in the notebook/ directory.  
 
@@ -49,3 +57,6 @@ Figures and Supplementary Figures described in the paper can be reproduced by ru
 **Landscape of Evolutionary arms race between Transposable elements and KRAB-ZFP family.**  
 Masato Kosuge, Jumpei Ito, Michiaki Hamada. bioRxiv, (2024)
 https://doi.org/10.1101/2024.05.20.595046
+
+## 5. Changelogs
+24/09/21 Add the information of the additional data and update the URL.
