@@ -58,5 +58,5 @@ Figures and Supplementary Figures described in the paper can be reproduced by ru
 Masato Kosuge, Jumpei Ito, Michiaki Hamada. bioRxiv, (2024)
 https://doi.org/10.1101/2024.05.20.595046
 
-## 5.Changelogs
+## 5. Changelogs
 24/09/21 Add the information of the additional data and update the URL.
