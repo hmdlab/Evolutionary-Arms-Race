@@ -54,9 +54,10 @@ python download_additional_data.py
 Figures and Supplementary Figures described in the paper can be reproduced by running the code in the Jupyter notebooks in the notebook/ directory.  
 
 ## 4. Citation
-**Landscape of Evolutionary arms race between Transposable elements and KRAB-ZFP family.**  
-Masato Kosuge, Jumpei Ito, Michiaki Hamada. bioRxiv, (2024)
-https://doi.org/10.1101/2024.05.20.595046
+**Landscape of evolutionary arms races between transposable elements and KRAB-ZFP family**<br>
+Masato Kosuge, Jumpei Ito, Michiaki Hamada. Scientific Reports, (2024)<br>
+[https://doi.org/10.1038/s41598-024-73752-7](https://doi.org/10.1038/s41598-024-73752-7)
 
 ## 5. Changelogs
-24/09/21 Add the information of the additional data and update the URL.
+24/09/21 Add the information of the additional data and update the URL.<br>
+24/10/08 update citation.
